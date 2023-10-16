@@ -23,6 +23,6 @@
     <hr>
     <a href = “https://www.instagram.com”> Links to Instagram </a>
     <hr>
-    <img src = “https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cathaypacific.com%2Fcx%2Fen_JP%2Finspiration%2Fwellness%2Fshow-your-heart-some-love.html&psig=AOvVaw3w_5esCZzKGCGLGdXGzmr9&ust=1697563857401000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCg2a2M-4EDFQAAAAAdAAAAABAQ”>
+    <img src = “https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/7K-YNQHM0yWeclSE3hNnL8HLuoQ=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/KBQOK2BYKVF2ZIPV6XNUB7YQAA.jpg”>
   </body>
 </html>
